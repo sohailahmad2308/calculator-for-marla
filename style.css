@@ -32,6 +32,7 @@ form {
 }
 
 input[type="number"] {
+    color: #9c0808;
     width: 100%;
     padding: 10px;
     font-size: 16px;
@@ -43,8 +44,8 @@ input[type="submit"] {
     width: 100%;
     padding: 10px;
     font-size: 16px;
-    background-color: #0073e6;
-    color: #fff;
+    background-color: #8A8CE1;
+    color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -52,9 +53,13 @@ input[type="submit"] {
 
 .result {
     font-size: 18px;
-    color: #0073e6;
+    color: #a50b0b;
     margin: 20px 0;
-    background-color: #e0f7ff;
+    background-color: #A156CB;
     padding: 10px;
     border-radius: 5px;
+}
+.head1{
+   
+      color: white;
 }
